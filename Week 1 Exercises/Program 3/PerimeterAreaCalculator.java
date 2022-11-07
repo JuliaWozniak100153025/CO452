@@ -1,6 +1,8 @@
+//package Week 1 Exercises.Program 3;
+
 import java.util.Scanner;
 
-class Main3 {
+class PerimeterAreaCalculator {
   public static void main(String[] args) {
     Scanner myObj = new Scanner(System.in);
 

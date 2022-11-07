@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class Main4 {
+class AverageNumberCalculator {
   public static void main(String[] args) {
     Scanner myObj = new Scanner(System.in);
 
@@ -22,5 +22,7 @@ class Main4 {
 
     // Output 
     System.out.println("This is the average of two numbers entered " + sum);
+
   }
-}
+  
+} 

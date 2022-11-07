@@ -1,6 +1,6 @@
 //package Week 1 Exercises.Program 2;
 
-class Main2
+class MainAmend
 {       
 
     public static void main(String[] args)
