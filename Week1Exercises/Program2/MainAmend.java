@@ -1,4 +1,4 @@
-//package Week 1 Exercises.Program 2;
+package Week1Exercises.Program2;
 
 class MainAmend
 {       

@@ -1,4 +1,4 @@
-//package Week 1 Exercises.Program 3;
+package Week1Exercises.Program3;
 
 import java.util.Scanner;
 
